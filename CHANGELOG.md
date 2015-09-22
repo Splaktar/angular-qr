@@ -1,3 +1,15 @@
+<a name"0.2.2"></a>
+### 0.2.2 (2015-09-22)
+
+
+#### Bug Fixes
+
+* render img element ([3d7165ac](https://github.com/Splaktar/angular-qr.git/commit/3d7165ac))
+* **demo:** allow to change image rendering ([c50760ba](https://github.com/Splaktar/angular-qr.git/commit/c50760ba))
+* **dependencies:** Fix dependencies to ensure reproducible builds. ([be2dd8b4](https://github.com/Splaktar/angular-qr.git/commit/be2dd8b4))
+* **qr:** Fix `text` attribute required error when value is set via a promise. ([0f4f0090](https://github.com/Splaktar/angular-qr.git/commit/0f4f0090))
+
+
 ## 0.2.0 (2014-06-22)
 
 
